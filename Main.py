@@ -1,8 +1,5 @@
 #Daniel Acosta
 #Superhero Quiz Game
-#More descriptive
-#comments explaining what the code does
-# math operators
 name = input('What is your name?\n')
 #asks for the user's name
 print('Hello, ' + name + ' welcome to the Superhero Quiz Game!', end='\n',sep=' ')
